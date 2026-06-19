@@ -1,43 +1,68 @@
 <img width="1920" height="1034" alt="s3" src="https://github.com/user-attachments/assets/3df59d8f-e43d-442f-8c50-fa50c29a86d2" />
 
 # CoDoc 𒋝
+## I have built a professional and high-performance document writing program using **Rust**.
 
-**CoDoc** is a modern, ultra-fast, and secure document processor designed for academics, researchers, businesses, and power users. Unlike traditional word processors that treat documents as static sheets, CoDoc introduces a revolutionary **Block-Based (Component) Architecture** combined with total styling freedom. 
+It is based on the principle of adding an element and filling in its fields. This grants you amazing writing speed and focus.
 
-It bridges the gap between the simplicity of modern note-taking apps, the power of LaTeX, and the advanced formatting needs of corporate environments.
----
+The program comes with a wide range of these elements, and the great thing is that anyone proficient in **JS** can easily program their own elements or modify existing ones programmatically, granting **unlimited possibilities and customization**.
 
-## ✨ Key Features
+Another great piece of news is the **centralized formatting** for the entire document, where you have complete freedom to give the pages you create either shared settings or specific ones.
 
-### 🗂️ Component-Driven Writing (Blocks)
-* **Modular Content:** Build documents using autonomous blocks (Paragraphs, Headings, Advanced Tables, or custom developer components).
-* **Developer Extensibility:** Built on a proprietary, secure high-performance execution engine. Advanced users can write and inject their own custom blocks using standard JavaScript.
+The program supports displaying **complex mathematical operations**, inserting **smart tables**, and of course, **images**.
 
-### 📊 Advanced Data & Math Integration
-* **Mini-Excel Tables:** Fully independent, lightweight spreadsheet windows built inside your document. Supports basic formulas, cell merging, custom formatting, and clean visual styles.
-* **Native LaTeX Support:** Render complex scientific and mathematical equations beautifully and natively.
-
-### 📐 Unmatched Layout Control & Print Engine
-* **Mixed Page Orientations:** Effortlessly handle complex layouts (e.g., 3 pages Portrait, 1 page Landscape for giant charts, followed by 3 pages Portrait) without breaking your document flow.
-* **Smart Template Component Replication:** Need a specific page in the middle to repeat automatically with minor programmatic changes (like dynamic dates, invoice numbers, or serials)? CoDoc does it seamlessly without manual duplication chaos.
-* **Pro Publishing Tools:** Full control over watermarks, borders, custom page numbering, and dynamic scaling for any paper size (including full custom dimensions).
-
-### 🎨 Design & Customization
-* **Global & Local Styling:** Every single block has its own dedicated CSS styling package.
-* **Theme Support:** Switch between an elegant system-wide global theme or customize the entire interface to match your aesthetic preference.
-
-### 🔒 100% Offline & Military-Grade Security
-* **Air-Gapped & Offline-First:** CoDoc requires **ZERO internet connection** to function. It operates in total isolation on your machine, ensuring complete privacy from third-party servers or data leaks.
-* **Instant End-to-End Encryption:** Your data belongs entirely to you. CoDoc features an industry-grade encryption system that secures your document from the exact millisecond of its creation. 
+The program exports documents in **PDF** and **PNG** formats.
 
 ---
 
-## 🎯 Perfect For
-* **Academic & Scientific Research:** Dynamic LaTeX rendering and modular block structuring.
-* **Corporate Technical Reports:** Complex document layouts, mixed orientations, and structured invoicing.
-* **Routine Institutional Workflow:** Automation of repeated template forms with dynamic internal data variables.
+### 🔒 Protection
+
+I have provided the highest level of protection:
+
+- The document you create and all the files inside it are fully protected and encrypted; you can set your own private password.
+- The program works completely offline, operating in an isolated environment specific to your device. This is one of the best types of protection for sensitive documents and institutional work.
 
 ---
+
+### ⚙️ Program features:
+
+- Besides the speed it provides in writing, centralized formatting, and unlimited elements, there is the feature of **repeating a single page multiple times with different information** (for example, a hundred pages with different dates, or a single CSV table page in the editor that turns into dozens of pages when printed). The variables and repetition features are truly great.
+- Another feature is supporting **various paper sizes** with the ability to customize the exact size you want.
+
+---
+
+### 🎯 Currently, I recommend the program and it is ready for use:
+
+- **For academics**, including professors, researchers, and students working on their research and reports (where the speed and mathematical equations features are extremely useful, as well as the general formatting feature which will help them customize all pages with simple clicks to APA, MLA, etc.).
+- **For routine institutional work** (the feature of changing a single field will be a lifesaver for them, in addition to the protection feature through encryption and isolation).
+- **Teaching JavaScript to children** (where the learning and production environments merge by seeing your equations come to life and print on the paper).
+
+---
+
+The program is **complete free** and will remain so, and it is currently in the **beta phase**. I recommend giving it a chance and trying it within a work or testing framework.
+
+Your support, bug tracking, and attempting to add your suggestions for improvement will be of great benefit to me to continue growing the program.
+
+---
+
+### 🔗 Links
+
+**Video about the program:**
+[https://youtu.be/suEP39diZ9U](https://youtu.be/suEP39diZ9U)
+
+**To download the program:**
+[https://get.codoc.workers.dev](https://get.codoc.workers.dev)
+
+**To Contact:**
+[youa.contact@gmail.com](mailto:youa.contact@gmail.com)
+
+## 💖 Support the Project
+[https://get.codoc.workers.dev/support](https://get.codoc.workers.dev/support)
+
+**Join Discord:**
+[https://discord.com/invite/sPAEArfPb](https://discord.com/invite/sPAEArfPb)
+
+
 
 ## ⬇️ Download & Installation
 
@@ -47,23 +72,6 @@ CoDoc is **completely free** but closed-source to protect its unique layout-proc
 
 ---
 
-## 💖 Support the Project
 
-CoDoc is developed and maintained independently. It is provided entirely for free without any locked features. If this tool saves you time and enhances your workflow, consider supporting future development via **USDT (Crypto)**:
 
-* **USDT (TRC-20) Address:** `Soon`
-or by qr code (https://get.codoc.workers.dev/support)
-
-*Your contributions directly help fund continuous performance optimizations and feature rollouts.*
-
----
-
-## 📞 Contact & Feedback
-
-Have a feature request, bug report, or business inquiry? Feel free to reach out directly:
-
-* 🌐 **Official Website:** [https://get.codoc.workers.dev/]
-* 📧 **Email Support:** [youa.contact@gmail.com]
-
----
 *Copyright © 2026 CoDoc. All Rights Reserved.*

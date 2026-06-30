@@ -1,7 +1,7 @@
 <img width="1920" height="1034" alt="s3" src="https://github.com/user-attachments/assets/3df59d8f-e43d-442f-8c50-fa50c29a86d2" />
 
 # CoDoc 𒋝
-## I have built a professional and high-performance document writing program using **Rust**.
+## I have built a professional and high-performance document writing software using **Rust**.
 
 It is based on the principle of adding an element and filling in its fields. This grants you amazing writing speed and focus.
 
